@@ -8,7 +8,7 @@ Hook library for replacing in-game camera textures with [Spout2](https://github.
 - beatmania IIDX 28 BISTROVER
 - beatmania IIDX 29 CastHour
 - beatmania IIDX 30 RESIDENT (010 and 012)
-- beatmania IIDX 31 EPOLIS 20231206 (010 only)
+- beatmania IIDX 31 EPOLIS (LDJ-012-2023101800) (LDJ-010-2023120600)
 
 <sub>※ In-game cameras are not supported in the LDJ-003 version of IIDX 30</sub>
 
